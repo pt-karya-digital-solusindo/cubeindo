@@ -1,2 +1,2 @@
 # cubeindo
-Cubeindo Reository
+Cubeindo Repository
